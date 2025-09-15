@@ -1,12 +1,33 @@
 {
 	"private": true,
+	"type": "module",
 	"scripts": {
 		"docs:dev": "vitepress dev docs",
 		"docs:build": "vitepress build docs",
-		"docs:preview": "vitepress preview docs"
+		"docs:preview": "vitepress preview docs",
+		"dev": "vite",
+		"build": "vue-tsc -b && vite build",
+		"preview": "vite preview",
+		"lint": "eslint ./src",
+		"lint:fix": "eslint ./src --fix"
 	},
 	"packageManager": "pnpm@10.15.1",
+	"dependencies": {
+		"tailwindcss": "4.1.13",
+		"vue": "^3.5.18",
+		"vue-router": "4.5.1"
+	},
 	"devDependencies": {
-		"vitepress": "2.0.0-alpha.12"
+		"@antfu/eslint-config": "^5.3.0",
+		"@tailwindcss/vite": "4.1.13",
+		"@tsconfig/node22": "22.0.2",
+		"@types/node": "24.5.0",
+		"@vitejs/plugin-vue": "^6.0.1",
+		"@vue/tsconfig": "^0.7.0",
+		"eslint": "^9.35.0",
+		"typescript": "~5.8.3",
+		"vite": "^7.1.2",
+		"vitepress": "2.0.0-alpha.12",
+		"vue-tsc": "^3.0.5"
 	}
 }
