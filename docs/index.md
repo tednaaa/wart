@@ -3,13 +3,19 @@
 layout: home
 
 hero:
-  name: "Why All Religions Are Trash?"
-  tagline: I will try to explain
+  name: "Почему Все Религии - Мусор?"
+  tagline: Я попытаюсь объяснить
   actions:
     # - theme: brand
-    #   text: Play game
+    #   text: Играть в игру
     #   link: /game
     - theme: alt
-      text: Why Islam Is Trash?
-      link: /islam
+      text: Почему Ислам - Мусор?
+      link: /islam/
+    - theme: alt
+      text: Почему Христианство - Мусор?
+      link: /christianity/
+    - theme: alt
+      text: Почему Иудаизм - Мусор?
+      link: /judaism/
 ---

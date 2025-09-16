@@ -3,39 +3,53 @@ import { defineConfig } from 'vitepress';
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
 	title: 'wart',
-	description: 'Why All Religions Are Trash',
 
 	locales: {
 		root: {
-			label: 'English',
-			lang: 'en',
-			themeConfig: {
-				nav: [
-					{ text: 'Home', link: '/' },
-				],
-				sidebar: [
-					{
-						text: 'Islam',
-						items: [
-							{ text: 'Why Islam Is Trash?', link: '/islam' },
-						],
-					},
-				],
-			},
-		},
-		ru: {
 			label: 'Русский',
 			lang: 'ru',
 			description: 'Почему Все Религии - Мусор',
 			themeConfig: {
-				nav: [
-					{ text: 'Главная', link: '/ru/' },
-				],
+				nav: [{ text: 'Главная', link: '/' }],
 				sidebar: [
 					{
-						text: 'Ислам',
+						text: 'Почему?',
 						items: [
-							{ text: 'Почему Ислам - Мусор?', link: '/ru/islam/' },
+							{ text: 'ислам - Мусор?', link: '/islam/' },
+							{ text: 'христианство - Мусор?', link: '/christianity/' },
+							{ text: 'иудаизм - Мусор?', link: '/judaism/' },
+						],
+					},
+				],
+				docFooter: {
+					prev: 'Предыдущая страница',
+					next: 'Следующая страница',
+				},
+				outline: {
+					label: 'Содержание страницы',
+				},
+				lastUpdated: {
+					text: 'Обновлено',
+				},
+				darkModeSwitchLabel: 'Внешний вид',
+				sidebarMenuLabel: 'Меню',
+				returnToTopLabel: 'Вернуться к началу',
+				langMenuLabel: 'Изменить язык',
+			},
+		},
+		en: {
+			label: 'English',
+			lang: 'en',
+			description: 'Why All Religions Are Trash',
+			themeConfig: {
+				nav: [{ text: 'Home', link: '/en/' }],
+				sidebar: [
+					{
+						text: 'Why?',
+						items: [
+							{ text: 'islam Is Trash?', link: '/en/islam/' },
+							{ text: 'christianity Is Trash?', link: '/en/christianity/' },
+							{ text: 'judaism Is Trash?', link: '/en/judaism/' },
 						],
 					},
 				],
@@ -48,7 +62,7 @@ export default defineConfig({
 			provider: 'local',
 			options: {
 				locales: {
-					ru: {
+					root: {
 						translations: {
 							button: {
 								buttonText: 'Поиск',
@@ -75,8 +89,6 @@ export default defineConfig({
 			},
 		},
 
-		socialLinks: [
-			{ icon: 'github', link: 'https://github.com/tednaaa/wart' },
-		],
+		socialLinks: [{ icon: 'github', link: 'https://github.com/tednaaa/wart' }],
 	},
 });

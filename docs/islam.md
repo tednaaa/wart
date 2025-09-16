@@ -1,45 +1,45 @@
-# Why Islam Is Trash?
+# Почему Ислам - Мусор?
 
-This page explains the problematic aspects of Islam as a religion and ideology.
+Эта страница объясняет проблематические аспекты ислама как религии и идеологии.
 
-## Introduction
+## Введение
 
-Islam, like many organized religions, contains numerous contradictions, harmful practices, and outdated beliefs that are incompatible with modern values of human rights, equality, and rational thinking.
+Ислам, как и многие организованные религии, содержит множество противоречий, вредных практик и устаревших убеждений, которые несовместимы с современными ценностями прав человека, равенства и рационального мышления.
 
-## Key Issues
+## Основные проблемы
 
-### 1. Treatment of Women
+### 1. Отношение к женщинам
 
-- Unequal inheritance laws
-- Restrictions on women's freedom and autonomy
-- Permissive attitudes toward domestic violence in certain interpretations
+- Неравные законы наследования
+- Ограничения свободы и автономии женщин
+- Снисходительное отношение к домашнему насилию в некоторых интерпретациях
 
-### 2. LGBTQ+ Rights
+### 2. Права ЛГБТК+
 
-- Explicit condemnation and criminalization of homosexuality
-- Death penalty for same-sex relationships in some Islamic countries
-- No recognition of gender identity or sexual orientation diversity
+- Явное осуждение и криминализация гомосексуальности
+- Смертная казнь за однополые отношения в некоторых исламских странах
+- Отсутствие признания разнообразия гендерной идентичности или сексуальной ориентации
 
-### 3. Freedom of Religion and Apostasy
+### 3. Свобода религии и отступничество
 
-- Death penalty for leaving Islam (apostasy) in traditional interpretations
-- Forced conversion and religious persecution
-- Blasphemy laws that restrict free speech and criticism
+- Смертная казнь за отказ от ислама (вероотступничество) в традиционных интерпретациях
+- Принудительное обращение и религиозные преследования
+- Законы о богохульстве, ограничивающие свободу слова и критику
 
-### 4. Violence and Extremism
+### 4. Насилие и экстремизм
 
-- Verses that can be interpreted to justify violence against non-believers
-- Historical and contemporary examples of religious extremism
-- Concept of jihad being misused to justify terrorism
+- Стихи, которые можно интерпретировать для оправдания насилия против неверующих
+- Исторические и современные примеры религиозного экстремизма
+- Концепция джихада, используемая не по назначению для оправдания терроризма
 
-### 5. Scientific and Rational Thinking
+### 5. Научное и рациональное мышление
 
-- Conflicts with evolutionary biology and modern science
-- Discouragement of questioning religious doctrines
-- Reliance on faith over evidence-based reasoning
+- Конфликты с эволюционной биологией и современной наукой
+- Препятствование сомнениям в религиозных доктринах
+- Опора на веру, а не на доказательное мышление
 
-## Conclusion
+## Заключение
 
-While many Muslims are peaceful and moderate in their beliefs, the fundamental texts and traditional interpretations of Islam contain numerous problematic elements that conflict with modern humanistic values and human rights principles.
+Хотя многие мусульмане являются мирными и умеренными в своих убеждениях, основополагающие тексты и традиционные интерпретации ислама содержат множество проблематичных элементов, которые конфликтуют с современными гуманистическими ценностями и принципами прав человека.
 
-It's important to note that criticism of religious ideas and ideologies is different from prejudice against people who follow those religions. This critique is directed at the belief system itself, not at individual Muslims as people.
+Важно отметить, что критика религиозных идей и идеологий отличается от предрассудков против людей, которые исповедуют эти религии. Эта критика направлена на саму систему убеждений, а не на отдельных мусульман как людей.
