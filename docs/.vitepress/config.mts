@@ -2,27 +2,25 @@ import { defineConfig } from 'vitepress';
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-	title: 'My Awesome Project',
-	description: 'A VitePress Site',
+	title: 'wart',
+	description: 'Why All Religions Are Trash',
 	themeConfig: {
-		// https://vitepress.dev/reference/default-theme-config
+		search: { provider: 'local' },
+
 		nav: [
 			{ text: 'Home', link: '/' },
-			{ text: 'Examples', link: '/markdown-examples' },
 		],
-
 		sidebar: [
 			{
-				text: 'Examples',
+				text: 'Islam',
 				items: [
-					{ text: 'Markdown Examples', link: '/markdown-examples' },
-					{ text: 'Runtime API Examples', link: '/api-examples' },
+					{ text: 'Why Islam Is Trash?', link: '/islam' },
 				],
 			},
 		],
 
 		socialLinks: [
-			{ icon: 'github', link: 'https://github.com/vuejs/vitepress' },
+			{ icon: 'github', link: 'https://github.com/tednaaa/wart' },
 		],
 	},
 });
